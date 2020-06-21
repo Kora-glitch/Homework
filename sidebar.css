@@ -5,6 +5,18 @@ nav {
   margin: 20px;
   width: 300px;
   padding: 14px 30px 27px;
+<<<<<<< HEAD
+=======
+  opacity: 0.5;
+}
+
+nav:hover {
+  opacity: 1;
+}
+
+nav a {
+  text-decoration: none;
+>>>>>>> 69f37d766b1d19f9efd2975bf7c113b85ec4a8e0
 }
 
 nav ul {
@@ -25,4 +37,10 @@ nav > ul > li:first-child {
 nav ul ul li {
   color: rgba(0, 0, 0, 0.4);
   margin-left: 10px;
+}
+
+@media (max-width: 1340px) {
+  nav {
+    display: none;
+  }
 }
