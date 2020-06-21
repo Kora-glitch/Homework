@@ -2,7 +2,18 @@ nav {
   position: fixed;
   top: 0;
   left: 0;
-  margin: 50px;
+  margin: 20px;
+  width: 300px;
+  padding: 14px 30px 27px;
+  opacity: 0.5;
+}
+
+nav:hover {
+  opacity: 1;
+}
+
+nav a {
+  text-decoration: none;
 }
 
 nav ul {
