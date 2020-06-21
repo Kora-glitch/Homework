@@ -202,7 +202,7 @@ article b {
   }
 }
 
-@@media (max-width: 767px) {
+@media (max-width: 767px) {
   article h1,
   article h2,
   article h3,
@@ -211,7 +211,7 @@ article b {
   article ul,
   article p,
   article blockquote {
-    width: calc(100%-20px);
+    width: calc(100% - 20px);
   }
 
   article ol li {

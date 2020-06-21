@@ -5,8 +5,6 @@ nav {
   margin: 20px;
   width: 300px;
   padding: 14px 30px 27px;
-<<<<<<< HEAD
-=======
   opacity: 0.5;
 }
 
@@ -16,7 +14,6 @@ nav:hover {
 
 nav a {
   text-decoration: none;
->>>>>>> 69f37d766b1d19f9efd2975bf7c113b85ec4a8e0
 }
 
 nav ul {
